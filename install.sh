@@ -8,3 +8,5 @@ conda config --append channels conda-forge
 
 conda create --name ELE361L --file requirements.txt
 
+
+
