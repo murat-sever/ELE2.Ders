@@ -6,7 +6,7 @@ source "${HOME}/conda/etc/profile.d/conda.sh"
 
 conda config --append channels conda-forge
 
-conda create --name ELE361L --file requirements.txt
+conda create --name ELE361L --file requirements2.txt
 
 
 
